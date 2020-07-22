@@ -1,1 +1,1 @@
-# cleanbrain-spring-saml-project
+spring-saml-project
